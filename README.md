@@ -2,7 +2,7 @@
 
 ## 👤 Student Details
 **Name:** Mahi Agrawal  
-**Register Number:** (Add your reg no.)  
+**Register Number:** 25BOE10011
 **Branch:** B.Tech Bioengineering  
 **University:** VIT Bhopal University  
 
@@ -38,7 +38,10 @@ digital-literacy-project/
 ├── task-4-email-etiquette/
 │ ├── emails.docx
 │ └── social-media-checklist.md
-
+|
+├── task-5-cybercrime/
+│ ├── casestudy.md
+│ └── prevention-checklist.md
 
 ---
 
@@ -98,6 +101,4 @@ This project helped me understand how digital tools can be used effectively and 
 ---
 
 ⭐ *This repository represents my digital literacy portfolio and learning journey.*
-├── task-5-cybercrime/
-│ ├── casestudy.md
-│ └── prevention-checklist.md
+
